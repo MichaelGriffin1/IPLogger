@@ -1,0 +1,3 @@
+C:\Users\Michael\source\repos\IPLogger\obj\Debug\IPLogger.njsprojAssemblyReference.cache
+C:\Users\Michael\source\repos\IPLogger\obj\Debug\IPLogger.njsproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\IPLogger\bin\Microsoft.NodejsTools.WebRole.dll
